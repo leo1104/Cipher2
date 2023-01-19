@@ -1,0 +1,16 @@
+React
+Charaterstics
+component based architecture
+Single page application
+Virtual dom
+
+
+
+
+
+
+navbar using html and css
+
+left side there will be a logo - text logo 
+
+right side there should be 2 options namely 1> about 2>Featured

@@ -1,0 +1,1100 @@
+ [
+    {
+      "_id": "637dbf157c2e5d716964d5d0",
+      "isViewed": false,
+      "notificationTriggeredUser": {
+        "_id": "5cd9915762dc4200046a2bae",
+        "username": "badri",
+        "displayPicture": {
+          "_id": "63c4d87cc5939d2028c253d2",
+          "thumbnail": {
+            "filename": "63c4d87cc5939d2028c253d2-thumbnail.jpg",
+            "height": 54,
+            "width": 96,
+            "isAvailable": true,
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-thumbnail.jpg"
+          },
+          "lowres": {
+            "filename": "63c4d87cc5939d2028c253d2-lowres.jpg",
+            "height": 203,
+            "width": 360,
+            "isAvailable": true,
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-lowres.jpg"
+          },
+          "highres": {
+            "filename": "63c4d87cc5939d2028c253d2-original.jpg",
+            "isAvailable": true,
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-original.jpg"
+          }
+        }
+      },
+      "message": "voted your post",
+      "createdTime": "2022-11-23T06:35:01.964Z",
+      "timeDiff": "8w",
+      "notificationtype": "newPostUpVote",
+      "notificationType": "newPostUpVote",
+      "post": {
+        "_id": "6375f04007fa37159d658338",
+        "isUpVoted": false,
+        "totalUpVotesCount": 2,
+        "postedBy": {
+          "_id": "62a746f7d910a92ee69b63aa",
+          "username": "misty_salmon",
+          "displayPicture": {
+            "_id": "62a746edd910a92ee69b63a4",
+            "thumbnail": {
+              "filename": "62a746edd910a92ee69b63a4-thumbnail.jpg",
+              "height": 96,
+              "width": 96,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62a746edd910a92ee69b63a4-thumbnail.jpg"
+            },
+            "lowres": {
+              "filename": "62a746edd910a92ee69b63a4-lowres.jpg",
+              "height": 360,
+              "width": 360,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62a746edd910a92ee69b63a4-lowres.jpg"
+            },
+            "highres": {
+              "filename": "62a746edd910a92ee69b63a4-midres.jpg",
+              "height": 768,
+              "width": 768,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62a746edd910a92ee69b63a4-midres.jpg"
+            }
+          },
+          "topBadges": []
+        },
+        "channels": [
+          {
+            "_id": "5e7b26d12e4d313df0044b50",
+            "title": "channel new",
+            "description": "channel desc",
+            "contexts": [],
+            "isMember": true,
+            "isModerator": false,
+            "spaces": [
+              {
+                "_id": "5c9c354a4f5ab21d987ce133",
+                "title": "Web design and development",
+                "displayPicture": {
+                  "_id": "5c9c35544f5ab21d987ce198",
+                  "thumbnail": {
+                    "filename": "5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                    "width": 100,
+                    "height": 67,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                    "isAvailable": true
+                  },
+                  "lowres": {
+                    "filename": "5c9c35544f5ab21d987ce198-lowres.jpg",
+                    "width": 360,
+                    "height": 240,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-lowres.jpg",
+                    "isAvailable": true
+                  },
+                  "highres": {
+                    "filename": "5c9c35544f5ab21d987ce198-midres.jpg",
+                    "width": 864,
+                    "height": 577,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-midres.jpg",
+                    "isAvailable": true
+                  }
+                }
+              },
+              {
+                "_id": "5c9c354a4f5ab21d987ce13b",
+                "title": "Aeronautics",
+                "displayPicture": {
+                  "_id": "5c9c35594f5ab21d987ce1d2",
+                  "thumbnail": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                    "width": 100,
+                    "height": 67,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                    "isAvailable": true
+                  },
+                  "lowres": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                    "width": 360,
+                    "height": 240,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                    "isAvailable": true
+                  },
+                  "highres": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-midres.jpg",
+                    "width": 864,
+                    "height": 576,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-midres.jpg",
+                    "isAvailable": true
+                  }
+                }
+              }
+            ],
+            "isAskMeAnythingAvailable": false,
+            "rules": [],
+            "shareUrl": "https://wylo.link/msCqa9p9Awb?_id=6375f04007fa37159d658338&type=post",
+            "displayPicture": {
+              "thumbnail": {
+                "filename": "fallBack-thumbnail.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "lowres": {
+                "filename": "fallBack-lowres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "highres": {
+                "filename": "fallBack-highres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              }
+            },
+            "bannerImage": {
+              "thumbnail": {
+                "filename": "fallBack-thumbnail.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "lowres": {
+                "filename": "fallBack-lowres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "highres": {
+                "filename": "fallBack-highres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              }
+            }
+          }
+        ],
+        "contexts": [],
+        "spaces": [
+          {
+            "_id": "5c9c354a4f5ab21d987ce133",
+            "title": "Web design and development",
+            "displayPicture": {
+              "_id": "5c9c35544f5ab21d987ce198",
+              "thumbnail": {
+                "filename": "5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                "isAvailable": true
+              },
+              "lowres": {
+                "filename": "5c9c35544f5ab21d987ce198-lowres.jpg",
+                "width": 360,
+                "height": 240,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-lowres.jpg",
+                "isAvailable": true
+              },
+              "highres": {
+                "filename": "5c9c35544f5ab21d987ce198-midres.jpg",
+                "width": 864,
+                "height": 577,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-midres.jpg",
+                "isAvailable": true
+              }
+            },
+            "contexts": [
+              "Discussion",
+              "Knowledge Share",
+              "Personal Experience",
+              "Advice",
+              "News",
+              "Article",
+              "Review",
+              "Suggestion",
+              "General",
+              "Code",
+              "Design",
+              "Tutorial",
+              "Long read",
+              "Quick update"
+            ]
+          },
+          {
+            "_id": "5c9c354a4f5ab21d987ce13b",
+            "title": "Aeronautics",
+            "displayPicture": {
+              "_id": "5c9c35594f5ab21d987ce1d2",
+              "thumbnail": {
+                "filename": "5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                "isAvailable": true
+              },
+              "lowres": {
+                "filename": "5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                "width": 360,
+                "height": 240,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                "isAvailable": true
+              },
+              "highres": {
+                "filename": "5c9c35594f5ab21d987ce1d2-midres.jpg",
+                "width": 864,
+                "height": 576,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-midres.jpg",
+                "isAvailable": true
+              }
+            },
+            "contexts": [
+              "Discussion",
+              "Knowledge share",
+              "Personal Experience",
+              "Suggestion",
+              "Advice",
+              "Long read",
+              "News",
+              "Article",
+              "General",
+              "Quick update",
+              "Research",
+              "Innovation",
+              "Outdoor",
+              "Adrenaline pump",
+              "Review"
+            ]
+          }
+        ],
+        "place": null,
+        "postedTime": "9w",
+        "postedTimeRaw": "2022-11-17T08:26:40.979Z",
+        "userMentions": [],
+        "channelMentions": [],
+        "category": "General",
+        "contentType": "Text",
+        "text": "as",
+        "title": "AS",
+        "isWyloChoice": false,
+        "totalDiscussionsCount": 0,
+        "chosenAnswer": null,
+        "discussionsEnabled": false,
+        "shareUrl": "https://wylo.link/mjX8qkkA1ub?_id=6375f04007fa37159d658338&type=post"
+      },
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null
+    },
+    {
+      "_id": "6375fa7c33111548109c6b9d",
+      "isViewed": false,
+      "notificationTriggeredUser": {
+        "_id": "6375fa0233111548109c6aa7",
+        "username": "maximum.lime",
+        "displayPicture": {
+          "thumbnail": {
+            "filename": "fallBack-thumbnail.jpg",
+            "url": "https://wylo-main.s3.ap-south-1.amazonaws.com/common/bots/bot_3.png"
+          },
+          "lowres": {
+            "filename": "fallBack-lowres.jpg",
+            "url": "https://wylo-main.s3.ap-south-1.amazonaws.com/common/bots/bot_3.png"
+          },
+          "highres": {
+            "filename": "fallBack-highres.jpg",
+            "url": "https://wylo-main.s3.ap-south-1.amazonaws.com/common/bots/bot_3.png"
+          }
+        }
+      },
+      "message": "voted your post",
+      "createdTime": "2022-11-17T09:10:20.715Z",
+      "timeDiff": "9w",
+      "notificationtype": "newPostUpVote",
+      "notificationType": "newPostUpVote",
+      "post": {
+        "_id": "6375f04007fa37159d658338",
+        "isUpVoted": false,
+        "totalUpVotesCount": 2,
+        "postedBy": {
+          "_id": "62a746f7d910a92ee69b63aa",
+          "username": "misty_salmon",
+          "displayPicture": {
+            "_id": "62a746edd910a92ee69b63a4",
+            "thumbnail": {
+              "filename": "62a746edd910a92ee69b63a4-thumbnail.jpg",
+              "height": 96,
+              "width": 96,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62a746edd910a92ee69b63a4-thumbnail.jpg"
+            },
+            "lowres": {
+              "filename": "62a746edd910a92ee69b63a4-lowres.jpg",
+              "height": 360,
+              "width": 360,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62a746edd910a92ee69b63a4-lowres.jpg"
+            },
+            "highres": {
+              "filename": "62a746edd910a92ee69b63a4-midres.jpg",
+              "height": 768,
+              "width": 768,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62a746edd910a92ee69b63a4-midres.jpg"
+            }
+          },
+          "topBadges": []
+        },
+        "channels": [
+          {
+            "_id": "5e7b26d12e4d313df0044b50",
+            "title": "channel new",
+            "description": "channel desc",
+            "contexts": [],
+            "isMember": true,
+            "isModerator": false,
+            "spaces": [
+              {
+                "_id": "5c9c354a4f5ab21d987ce133",
+                "title": "Web design and development",
+                "displayPicture": {
+                  "_id": "5c9c35544f5ab21d987ce198",
+                  "thumbnail": {
+                    "filename": "5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                    "width": 100,
+                    "height": 67,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                    "isAvailable": true
+                  },
+                  "lowres": {
+                    "filename": "5c9c35544f5ab21d987ce198-lowres.jpg",
+                    "width": 360,
+                    "height": 240,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-lowres.jpg",
+                    "isAvailable": true
+                  },
+                  "highres": {
+                    "filename": "5c9c35544f5ab21d987ce198-midres.jpg",
+                    "width": 864,
+                    "height": 577,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-midres.jpg",
+                    "isAvailable": true
+                  }
+                }
+              },
+              {
+                "_id": "5c9c354a4f5ab21d987ce13b",
+                "title": "Aeronautics",
+                "displayPicture": {
+                  "_id": "5c9c35594f5ab21d987ce1d2",
+                  "thumbnail": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                    "width": 100,
+                    "height": 67,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                    "isAvailable": true
+                  },
+                  "lowres": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                    "width": 360,
+                    "height": 240,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                    "isAvailable": true
+                  },
+                  "highres": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-midres.jpg",
+                    "width": 864,
+                    "height": 576,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-midres.jpg",
+                    "isAvailable": true
+                  }
+                }
+              }
+            ],
+            "isAskMeAnythingAvailable": false,
+            "rules": [],
+            "shareUrl": "https://wylo.link/msCqa9p9Awb?_id=6375f04007fa37159d658338&type=post",
+            "displayPicture": {
+              "thumbnail": {
+                "filename": "fallBack-thumbnail.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "lowres": {
+                "filename": "fallBack-lowres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "highres": {
+                "filename": "fallBack-highres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              }
+            },
+            "bannerImage": {
+              "thumbnail": {
+                "filename": "fallBack-thumbnail.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "lowres": {
+                "filename": "fallBack-lowres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "highres": {
+                "filename": "fallBack-highres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              }
+            }
+          }
+        ],
+        "contexts": [],
+        "spaces": [
+          {
+            "_id": "5c9c354a4f5ab21d987ce133",
+            "title": "Web design and development",
+            "displayPicture": {
+              "_id": "5c9c35544f5ab21d987ce198",
+              "thumbnail": {
+                "filename": "5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                "isAvailable": true
+              },
+              "lowres": {
+                "filename": "5c9c35544f5ab21d987ce198-lowres.jpg",
+                "width": 360,
+                "height": 240,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-lowres.jpg",
+                "isAvailable": true
+              },
+              "highres": {
+                "filename": "5c9c35544f5ab21d987ce198-midres.jpg",
+                "width": 864,
+                "height": 577,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-midres.jpg",
+                "isAvailable": true
+              }
+            },
+            "contexts": [
+              "Discussion",
+              "Knowledge Share",
+              "Personal Experience",
+              "Advice",
+              "News",
+              "Article",
+              "Review",
+              "Suggestion",
+              "General",
+              "Code",
+              "Design",
+              "Tutorial",
+              "Long read",
+              "Quick update"
+            ]
+          },
+          {
+            "_id": "5c9c354a4f5ab21d987ce13b",
+            "title": "Aeronautics",
+            "displayPicture": {
+              "_id": "5c9c35594f5ab21d987ce1d2",
+              "thumbnail": {
+                "filename": "5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                "isAvailable": true
+              },
+              "lowres": {
+                "filename": "5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                "width": 360,
+                "height": 240,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                "isAvailable": true
+              },
+              "highres": {
+                "filename": "5c9c35594f5ab21d987ce1d2-midres.jpg",
+                "width": 864,
+                "height": 576,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-midres.jpg",
+                "isAvailable": true
+              }
+            },
+            "contexts": [
+              "Discussion",
+              "Knowledge share",
+              "Personal Experience",
+              "Suggestion",
+              "Advice",
+              "Long read",
+              "News",
+              "Article",
+              "General",
+              "Quick update",
+              "Research",
+              "Innovation",
+              "Outdoor",
+              "Adrenaline pump",
+              "Review"
+            ]
+          }
+        ],
+        "place": null,
+        "postedTime": "9w",
+        "postedTimeRaw": "2022-11-17T08:26:40.979Z",
+        "userMentions": [],
+        "channelMentions": [],
+        "category": "General",
+        "contentType": "Text",
+        "text": "as",
+        "title": "AS",
+        "isWyloChoice": false,
+        "totalDiscussionsCount": 0,
+        "chosenAnswer": null,
+        "discussionsEnabled": false,
+        "shareUrl": "https://wylo.link/mjX8qkkA1ub?_id=6375f04007fa37159d658338&type=post"
+      },
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null
+    },
+    {
+      "_id": "634e5684afa85c4b44b21964",
+      "isViewed": false,
+      "notificationTriggeredUser": {
+        "_id": "5cd9915762dc4200046a2bae",
+        "username": "badri",
+        "displayPicture": {
+          "_id": "63c4d87cc5939d2028c253d2",
+          "thumbnail": {
+            "filename": "63c4d87cc5939d2028c253d2-thumbnail.jpg",
+            "height": 54,
+            "width": 96,
+            "isAvailable": true,
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-thumbnail.jpg"
+          },
+          "lowres": {
+            "filename": "63c4d87cc5939d2028c253d2-lowres.jpg",
+            "height": 203,
+            "width": 360,
+            "isAvailable": true,
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-lowres.jpg"
+          },
+          "highres": {
+            "filename": "63c4d87cc5939d2028c253d2-original.jpg",
+            "isAvailable": true,
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-original.jpg"
+          }
+        }
+      },
+      "message": "mentioned you in a comment",
+      "createdTime": "2022-10-18T07:32:20.096Z",
+      "timeDiff": "13w",
+      "notificationtype": "newCommentMention",
+      "notificationType": "newCommentMention",
+      "post": {
+        "_id": "6311bfdcb6044ae111da87ea",
+        "isUpVoted": false,
+        "totalUpVotesCount": 8,
+        "postedBy": {
+          "_id": "601a7770b5c0597eac6be73e",
+          "username": "wylo",
+          "displayPicture": {
+            "_id": "62016b511a6cdb906e0f08da",
+            "thumbnail": {
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+              "filename": "62016b511a6cdb906e0f08da-original.jpg",
+              "width": 500,
+              "height": 500
+            },
+            "lowres": {
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+              "filename": "62016b511a6cdb906e0f08da-original.jpg",
+              "width": 500,
+              "height": 500
+            },
+            "highres": {
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+              "filename": "62016b511a6cdb906e0f08da-original.jpg",
+              "width": 500,
+              "height": 500
+            }
+          },
+          "topBadges": []
+        },
+        "channels": [
+          {
+            "_id": "5e7b26d12e4d313df0044b50",
+            "title": "channel new",
+            "description": "channel desc",
+            "contexts": [],
+            "isMember": true,
+            "isModerator": false,
+            "spaces": [
+              {
+                "_id": "5c9c354a4f5ab21d987ce133",
+                "title": "Web design and development",
+                "displayPicture": {
+                  "_id": "5c9c35544f5ab21d987ce198",
+                  "thumbnail": {
+                    "filename": "5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                    "width": 100,
+                    "height": 67,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                    "isAvailable": true
+                  },
+                  "lowres": {
+                    "filename": "5c9c35544f5ab21d987ce198-lowres.jpg",
+                    "width": 360,
+                    "height": 240,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-lowres.jpg",
+                    "isAvailable": true
+                  },
+                  "highres": {
+                    "filename": "5c9c35544f5ab21d987ce198-midres.jpg",
+                    "width": 864,
+                    "height": 577,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-midres.jpg",
+                    "isAvailable": true
+                  }
+                }
+              },
+              {
+                "_id": "5c9c354a4f5ab21d987ce13b",
+                "title": "Aeronautics",
+                "displayPicture": {
+                  "_id": "5c9c35594f5ab21d987ce1d2",
+                  "thumbnail": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                    "width": 100,
+                    "height": 67,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                    "isAvailable": true
+                  },
+                  "lowres": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                    "width": 360,
+                    "height": 240,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                    "isAvailable": true
+                  },
+                  "highres": {
+                    "filename": "5c9c35594f5ab21d987ce1d2-midres.jpg",
+                    "width": 864,
+                    "height": 576,
+                    "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-midres.jpg",
+                    "isAvailable": true
+                  }
+                }
+              }
+            ],
+            "isAskMeAnythingAvailable": false,
+            "rules": [],
+            "shareUrl": "https://wylo.link/IcgKb9p9Awb?_id=6311bfdcb6044ae111da87ea&type=post",
+            "displayPicture": {
+              "thumbnail": {
+                "filename": "fallBack-thumbnail.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "lowres": {
+                "filename": "fallBack-lowres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "highres": {
+                "filename": "fallBack-highres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              }
+            },
+            "bannerImage": {
+              "thumbnail": {
+                "filename": "fallBack-thumbnail.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "lowres": {
+                "filename": "fallBack-lowres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              },
+              "highres": {
+                "filename": "fallBack-highres.jpg",
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62f7113835b6fc93d5eae2c9-original.jpg"
+              }
+            }
+          }
+        ],
+        "contexts": [],
+        "spaces": [
+          {
+            "_id": "5c9c354a4f5ab21d987ce133",
+            "title": "Web design and development",
+            "displayPicture": {
+              "_id": "5c9c35544f5ab21d987ce198",
+              "thumbnail": {
+                "filename": "5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-thumbnail.jpg",
+                "isAvailable": true
+              },
+              "lowres": {
+                "filename": "5c9c35544f5ab21d987ce198-lowres.jpg",
+                "width": 360,
+                "height": 240,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-lowres.jpg",
+                "isAvailable": true
+              },
+              "highres": {
+                "filename": "5c9c35544f5ab21d987ce198-midres.jpg",
+                "width": 864,
+                "height": 577,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35544f5ab21d987ce198-midres.jpg",
+                "isAvailable": true
+              }
+            },
+            "contexts": [
+              "Discussion",
+              "Knowledge Share",
+              "Personal Experience",
+              "Advice",
+              "News",
+              "Article",
+              "Review",
+              "Suggestion",
+              "General",
+              "Code",
+              "Design",
+              "Tutorial",
+              "Long read",
+              "Quick update"
+            ]
+          },
+          {
+            "_id": "5c9c354a4f5ab21d987ce13b",
+            "title": "Aeronautics",
+            "displayPicture": {
+              "_id": "5c9c35594f5ab21d987ce1d2",
+              "thumbnail": {
+                "filename": "5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-thumbnail.jpg",
+                "isAvailable": true
+              },
+              "lowres": {
+                "filename": "5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                "width": 360,
+                "height": 240,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-lowres.jpg",
+                "isAvailable": true
+              },
+              "highres": {
+                "filename": "5c9c35594f5ab21d987ce1d2-midres.jpg",
+                "width": 864,
+                "height": 576,
+                "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/5c9c35594f5ab21d987ce1d2-midres.jpg",
+                "isAvailable": true
+              }
+            },
+            "contexts": [
+              "Discussion",
+              "Knowledge share",
+              "Personal Experience",
+              "Suggestion",
+              "Advice",
+              "Long read",
+              "News",
+              "Article",
+              "General",
+              "Quick update",
+              "Research",
+              "Innovation",
+              "Outdoor",
+              "Adrenaline pump",
+              "Review"
+            ]
+          }
+        ],
+        "place": {
+          "placeId": "ChIJ_zORfyhaWjcRMt5rQzITvSs",
+          "name": "Guwahati"
+        },
+        "postedTime": "20w",
+        "postedTimeRaw": "2022-09-02T08:33:32.882Z",
+        "userMentions": [],
+        "channelMentions": [],
+        "category": "General",
+        "contentType": "Text",
+        "text": "Aww you are sad again...\n  Don't be.....\nBecause nobody cares bro.....",
+        "title": "Its true....",
+        "isWyloChoice": false,
+        "totalDiscussionsCount": 15,
+        "chosenAnswer": null,
+        "discussionsEnabled": false,
+        "shareUrl": "https://wylo.link/FZ1DRBPFuub?_id=6311bfdcb6044ae111da87ea&type=post"
+      },
+      "comment": {
+        "id": "634e5684afa85c4b44b21957",
+        "postedBy": {
+          "_id": "5cd9915762dc4200046a2bae",
+          "username": "badri",
+          "isWyloModerator": false,
+          "isChannelModerator": false,
+          "displayPicture": {
+            "_id": "63c4d87cc5939d2028c253d2",
+            "thumbnail": {
+              "filename": "63c4d87cc5939d2028c253d2-thumbnail.jpg",
+              "height": 54,
+              "width": 96,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-thumbnail.jpg"
+            },
+            "lowres": {
+              "filename": "63c4d87cc5939d2028c253d2-lowres.jpg",
+              "height": 203,
+              "width": 360,
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-lowres.jpg"
+            },
+            "highres": {
+              "filename": "63c4d87cc5939d2028c253d2-original.jpg",
+              "isAvailable": true,
+              "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/63c4d87cc5939d2028c253d2-original.jpg"
+            }
+          },
+          "topBadges": []
+        },
+        "commentTimeDiff": "13w",
+        "commentContent": "@misty_salmon ",
+        "type": "COMMENTITEM_1",
+        "commentVotes": {
+          "upvotes": [],
+          "downvotes": []
+        },
+        "usermentions": [
+          {
+            "_id": "62a746f7d910a92ee69b63aa",
+            "username": "misty_salmon"
+          }
+        ],
+        "channelMentions": [],
+        "replies": [],
+        "totalReplies": 0,
+        "post": "6311bfdcb6044ae111da87ea",
+        "commentDownVoted": false,
+        "commentUpVoted": false
+      },
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null
+    },
+    {
+      "_id": "6333d9d4795ea9a78c8b3f62",
+      "isViewed": false,
+      "notificationTriggeredUser": {
+        "_id": "601a7770b5c0597eac6be73e",
+        "username": "wylo",
+        "displayPicture": {
+          "_id": "62016b511a6cdb906e0f08da",
+          "thumbnail": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "lowres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "highres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          }
+        }
+      },
+      "content": "Congratulations, you just earned your first point on Wylo. You can keep earning more points by creating new posts and engaging with other people’s content. To know more about points: Wylo points",
+      "createdTime": "2022-09-28T05:21:24.994Z",
+      "timeDiff": "16w",
+      "notificationtype": "newAnnouncement",
+      "notificationType": "pointsNotif",
+      "post": null,
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null,
+      "hyperLink": [
+        {
+          "htext": "Wylo points",
+          "href": "https://wyloapp.com/help/points"
+        }
+      ]
+    },
+    {
+      "_id": "63302becb821f1e8ac2f00f4",
+      "isViewed": false,
+      "notificationTriggeredUser": {
+        "_id": "601a7770b5c0597eac6be73e",
+        "username": "wylo",
+        "displayPicture": {
+          "_id": "62016b511a6cdb906e0f08da",
+          "thumbnail": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "lowres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "highres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          }
+        }
+      },
+      "message": "Kudos! You earned the Explorer badge for exploring communities out of your interests.",
+      "createdTime": "2022-09-25T10:22:36.501Z",
+      "timeDiff": "16w",
+      "notificationtype": "newBadge",
+      "notificationType": "newBadge",
+      "badgeType": "explorer",
+      "post": null,
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": {
+        "_id": "63302becb821f1e8ac2f00ef",
+        "isPermanent": true,
+        "title": "Explorer",
+        "description": "for exploring Communities out of your interests.",
+        "displayPicture": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/badges/explorer.png",
+        "displayPictureDark": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/badges/explorer_dark.png",
+        "badgeType": "explorer",
+        "shareText": "I got the Explorer badge for exploring new communities on Wylo. ✨",
+        "notificationText": null,
+        "shareImageText": "I am a Wylo's Explorer. 🧐"
+      }
+    },
+    {
+      "_id": "62ea0a58e1b0a1a5810517f7",
+      "isViewed": false,
+      "notificationTriggeredUser": {
+        "_id": "601a7770b5c0597eac6be73e",
+        "username": "wylo",
+        "displayPicture": {
+          "_id": "62016b511a6cdb906e0f08da",
+          "thumbnail": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "lowres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "highres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          }
+        }
+      },
+      "message": "Wylo is for passionate minds like you. Know someone passionate? Let’s invite them.",
+      "createdTime": "2022-08-03T05:40:40.065Z",
+      "timeDiff": "24w",
+      "notificationtype": "newInviteUser",
+      "notificationType": "newInviteUser",
+      "post": null,
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null
+    },
+    {
+      "_id": "62a7470ed910a92ee69b63d6",
+      "isViewed": true,
+      "notificationTriggeredUser": {
+        "_id": "601a7770b5c0597eac6be73e",
+        "username": "wylo",
+        "displayPicture": {
+          "_id": "62016b511a6cdb906e0f08da",
+          "thumbnail": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "lowres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "highres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          }
+        }
+      },
+      "content": "Hey, Prantosh Verma, Welcome to Wylo! Great to have you here! Join Communities you love, find articles you like on the feed, and start posting stuff you care about.",
+      "createdTime": "2022-06-13T14:17:50.697Z",
+      "timeDiff": "31w",
+      "notificationtype": "newAnnouncement",
+      "notificationType": "onBoard",
+      "post": null,
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null,
+      "hyperLink": []
+    },
+    {
+      "_id": "62a7470ed910a92ee69b63d4",
+      "isViewed": true,
+      "notificationTriggeredUser": {
+        "_id": "601a7770b5c0597eac6be73e",
+        "username": "wylo",
+        "displayPicture": {
+          "_id": "62016b511a6cdb906e0f08da",
+          "thumbnail": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "lowres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "highres": {
+            "url": "https://wylo-data-storage.s3.ap-south-1.amazonaws.com/62016b511a6cdb906e0f08da-original.jpg",
+            "filename": "62016b511a6cdb906e0f08da-original.jpg",
+            "width": 500,
+            "height": 500
+          }
+        }
+      },
+      "message": "Missed our starter guide? Tap here.",
+      "createdTime": "2022-06-13T14:17:50.692Z",
+      "timeDiff": "31w",
+      "notificationtype": "newUserGettingStarted",
+      "notificationType": "newUserGettingStarted",
+      "post": null,
+      "comment": null,
+      "answer": null,
+      "reply": null,
+      "channel": null,
+      "badge": null
+    }
+  ]
